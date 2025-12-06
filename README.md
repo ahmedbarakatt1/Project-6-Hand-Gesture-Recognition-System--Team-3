@@ -1,6 +1,6 @@
 # ✋ Hand Gesture Recognition System  
 **Team 3 — Project 6**  
-🎓 Graduation Project — Digital Egypt Pioneers Initiative (DEPI) / Microsoft Machine Learning Program  
+🎓 Graduation Project — Digital Egypt Pioneers Initiative (DEPI) / Microsoft Machine Learning Engineer Program  
 
 A deep-learning powered system that recognizes hand gestures from images and real-time video. Built using computer vision, convolutional neural networks (CNNs), and OpenCV, this project enables gesture-based interaction for applications such as HCI, VR, gaming, and accessibility tools.
 
