@@ -62,7 +62,8 @@ The system supports custom CNN models (tailored to the dataset and gestures)
 ├── Reports/                   ← Final reports, documentation
 ├── Streamlit UI App/          ← Web-app for real-time gesture recognition    
 ├── README.md                  ← This file  
-└── LICENSE                    ← MIT License  
+├── LICENSE                    ← MIT License      
+└── requirements.md            ← Required libraries and packages
 ```
 
 ---
