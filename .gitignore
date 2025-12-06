@@ -1,0 +1,61 @@
+# -----------------------------------------------------------------------------
+# General & IDE Ignored Files
+# -----------------------------------------------------------------------------
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS-generated files
+.DS_Store
+.localized
+Thumbs.db
+
+# Virtual Environment
+/venv
+/env
+/bin
+/Scripts
+
+# Python IDEs
+.idea/             # PyCharm, IntelliJ
+.vscode/           # VS Code settings
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook Files
+.ipynb_checkpoints/
+
+# -----------------------------------------------------------------------------
+# Machine Learning & Data Ignored Files (Crucial for your project)
+# -----------------------------------------------------------------------------
+
+# Saved trained models (They can be very large)
+# Based on your Project Structure:
+/Final Model/*.h5
+/Final Model/*.pkl
+/Final Model/*.pb
+/Final Model/*.json
+/Final Model/*.pth
+/Final Model/*.weights.h5
+
+# Preprocessed/Augmented Data (Also very large, should not be versioned)
+# Based on your Project Structure:
+/Preprocessed Data/
+
+# TensorFlow/Keras/Logs
+/logs/
+/tensorboard/
+checkpoints/
+model_history.csv
+
+# Scikit-learn models
+*.joblib
+*.pickle
+
+# -----------------------------------------------------------------------------
+# Streamlit App and Deployment Files
+# -----------------------------------------------------------------------------
+
+# Streamlit data cache
+.streamlit/
