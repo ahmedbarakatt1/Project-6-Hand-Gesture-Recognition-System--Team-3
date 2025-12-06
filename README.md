@@ -77,14 +77,14 @@ git clone https://github.com/ahmedbarakatt1/Project-6-Hand-Gesture-Recognition-S
 cd Project-6-Hand-Gesture-Recognition-System--Team-3
 ```
 
-# (Optional) create a virtual environment
+(Optional) create a virtual environment
 python -m venv venv
 source venv/bin/activate        # On Windows: venv\Scripts\activate
 
-# Install dependencies
+Install dependencies
 pip install -r requirements.txt
 
-# To launch the Streamlit UI for real-time gesture recognition:
+To launch the Streamlit UI for real-time gesture recognition:
 
 ```bash
 streamlit run "Streamlit UI App/app.py"
