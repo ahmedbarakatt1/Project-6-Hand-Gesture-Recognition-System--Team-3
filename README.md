@@ -57,7 +57,7 @@ The system supports custom CNN models (tailored to the dataset and gestures)
 
 ```text
 /
-├── Final Model/               ← Saved trained models  
+├── Final Model/               ← Saved trained model  
 ├── Notebooks/                 ← Jupyter notebooks (preprocessing, training, evaluation)  
 ├── Preprocessed Data/         ← Cleaned & augmented datasets  
 ├── Presentations/             ← Project slides & demo material  
